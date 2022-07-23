@@ -1,0 +1,25 @@
+color: '' # kleuren code
+
+token: "" # de bot TOKEN
+
+thumbnail: '' # thumbnail
+
+footer: '© Ryvo | Tickets' # footer voor onder de embeds
+
+logs: '' # log kanaal id
+
+unbanticket: '' # Unban id
+
+refundticket: '' # Refund id
+
+klachtticket: '' # klacht id
+
+developmentticket: '' # development id
+
+onderwereldticket: '' # onderwereld id
+
+donatieticket: '' # donatie id
+
+vraagticket: '' # vraag id
+
+staff: '' # staffrol id
